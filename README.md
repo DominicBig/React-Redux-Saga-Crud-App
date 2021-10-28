@@ -1,3 +1,9 @@
+
+# Getting Started with Create React App
+
+React Crud Application with the help of MDBootstrap 5 , JSON Server and Redux-saga middleware.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "James",
+      "email": "james@email.com",
+      "phone": "777-555-55",
+      "country": "USA"
+    },
+    {
+      "id": 2,
+      "name": "John",
+      "email": "John@email.com",
+      "phone": "222-222-226555",
+      "country": "USA"
+    },
+    {
+      "name": "John",
+      "email": "test@test.com",
+      "phone": "111-222-33",
+      "country": "India",
+      "id": 3
+    },
+    {
+      "name": "Bread",
+      "email": "test@test.com",
+      "phone": "111-222-33",
+      "country": "UK",
+      "id": 4
+    },
+    {
+      "name": "Jan",
+      "email": "test@gmail.com",
+      "phone": "111-222-33",
+      "country": "UA",
+      "id": 5
+    },
+    {
+      "name": "Jane",
+      "email": "techie@email.com",
+      "phone": "111-222-33",
+      "country": "Ukraine",
+      "id": 6
+    }
+  ]
+}
