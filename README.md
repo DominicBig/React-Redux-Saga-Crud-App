@@ -1,3 +1,9 @@
+# React Crud Application with the help of MDBootstrap 5 , JSON Server and Redux-saga middleware. 
+ To initialize JSON Server please `npm install' in db directory, 
+and then in the DB directory, you can run:
+
+ `npm start` to start the JSON Server
+
 
 # Getting Started with Create React App
 
